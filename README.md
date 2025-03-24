@@ -1,6 +1,6 @@
 # Finetuning Large Language Models (LLMs) for Text Classification 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayambe36/LLMs-for-Text-Classification/blob/main/h2o_danube_classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayambe36/LLMs for Text Classification/blob/main/h2o_danube_classifier.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayambe36/LLMs-for-Text-Classification/blob/main/phi3_classifier.ipynb)
 
